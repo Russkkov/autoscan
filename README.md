@@ -48,7 +48,7 @@ Para guardar en un archivo el resultado del escaneo ver Uso 4.
 **- Uso 3: autoscan.sh [-e][--exportar]**
 
 ```
-p.e.: autoscan.sh -e
+autoscan.sh -e
 ```
 
 Si se usa el parámetro -e o --exportar se realizará el escaneo descrito en el Uso 1 y se guardará en un archivo .txt en la ruta actual.
@@ -58,7 +58,7 @@ Si se usa el parámetro -e o --exportar se realizará el escaneo descrito en el 
 **- Uso 4: autoscan.sh [-i][--ip] {IP} [-e][--exportar]**
 
 ```
-autoscan.sh -i 127.0.0.1 -e
+p.e.: autoscan.sh -i 127.0.0.1 -e
 ```
 
 Si se usa el parémtro -e o --exportar junto con el parámetro -i o --ip seguido de la IP se realizará el escaneo descrito en el Uso 2 y se guardará un archivo .txt en la ruta actual.
