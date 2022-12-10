@@ -110,7 +110,7 @@ Si se usa el parámetro -d seguido de la dirección IP (-d 127.0.0.0) se buscar�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**- Uso 8: autoscan.sh [-d] <IP> [-t] <Puerto>**
+**- Uso 8: autoscan.sh [-d] {IP} [-t] {Puerto}**
 
 ```
 p.e.: autoscan.sh -d 127.0.0.1 -t 8080
