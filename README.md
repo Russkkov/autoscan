@@ -83,7 +83,7 @@ Si se usa el parémtro -e o --exportar junto con el parámetro -i o --ip seguido
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**- Uso 5: autoscan.sh [-p][--puerto][--port]
+**- Uso 5: autoscan.sh [-p][--puerto][--port]**
 
 ```
 autoscan.sh -p
@@ -92,7 +92,7 @@ Si se usa únicamente el parámetro -p, --puerto o --port se realizará el escan
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**- Uso 6: autoscan.sh [-i][--ip] {IP} [-p][--puerto][--port]
+**- Uso 6: autoscan.sh [-i][--ip] {IP} [-p][--puerto][--port]**
 
 ```
 p.e.: autoscan.sh -i 127.0.0.1 -p
@@ -101,7 +101,7 @@ Si se usa el parámetro -i o --ip seguido de la dirección IP junto con el pará
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**- Uso 7: autoscan.sh [-d] {IP}
+**- Uso 7: autoscan.sh [-d] {IP}**
 
 ```
 p.e.: autoscan.sh -d 127.0.0.1
@@ -110,7 +110,7 @@ Si se usa el parámetro -d seguido de la dirección IP (-d 127.0.0.0) se buscar�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**- Uso 8: autoscan.sh [-d] <IP> [-t] <Puerto>
+**- Uso 8: autoscan.sh [-d] <IP> [-t] <Puerto>**
 
 ```
 p.e.: autoscan.sh -d 127.0.0.1 -t 8080
