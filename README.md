@@ -15,6 +15,7 @@ La información obtenida en los escaneos puede guardarse en un archivo (ver Uso 
 # v2.0
 
 Añadidas nuevas funciones:
+
 **-Buscar puertos abiertos en las IP activas encontradas al escanear las redes a las que estamos conectados.**
 
 **-Buscar puertos abiertos en las IP activas encontradas al escanear la red indicada.**
