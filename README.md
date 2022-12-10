@@ -24,6 +24,8 @@ Añadidas nuevas funciones:
 
 **-Comprobar si un puerto concreto está abierto o cerrado para una IP indicada.**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 # Instalación
 
 git clone https://github.com/Russkkov/autoscan.git
